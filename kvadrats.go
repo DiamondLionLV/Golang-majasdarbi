@@ -2,7 +2,7 @@ package main
 import "fmt"
 
 func main() {
-	var a, b int
+	var a, b, c, d int
 	fmt.Print("Enter a: ")
 	fmt.Scan(&a)
 	fmt.Print("Enter b: ")
